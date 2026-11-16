@@ -1,0 +1,101 @@
+StudentID,StudentName,Gender,Course,Semester,City,DateOfBirth,Phone,Email,MathsMarks,ProgrammingMarks,DatabaseMarks
+S001,Manoj Iyer,Male,BE-ECE,2,Mumbai,2002-10-13,9890779946,manoj.iyer@college.edu,48,46,89
+S002,Diya Sharma,Male,BE-CSE,2,Chennai,2005-05-17,9128492780,diya.sharma@college.edu,60,88,63
+S003,Suresh Naidu,Female,BCA,2,Pune,2004-05-15,9465341213,suresh.naidu@college.edu,70,54,62
+S004,Harsh Khan,Male,BCA,4,Bengaluru,2004-01-06,9469319644,harsh.khan@college.edu,68,40,93
+S005,Pooja Iyer,Female,BCA,5,Delhi,2006-08-26,9774996843,pooja.iyer@college.edu,81,59,43
+S006,Diya Reddy,Female,BCA,2,Bengaluru,2004-02-18,9398471886,diya.reddy@college.edu,93,81,55
+S007,Kavya Joshi,Male,BE-ECE,6,Pune,2005-08-20,9176667861,kavya.joshi@college.edu,56,66,55
+S008,Suresh Rao,Female,BE-CSE,6,Delhi,2006-09-23,9924970419,suresh.rao@college.edu,42,64,39
+S009,Neha Khan,Female,BE-ECE,1,Mumbai,2005-03-07,9870854579,neha.khan@college.edu,75,62,98
+S010,Imran Shetty,Male,BE-ECE,2,Mumbai,2006-03-06,9702764446,imran.shetty@college.edu,68,89,86
+S011,Kavya Reddy,Male,BSc Data Science,1,Bengaluru,2006-10-30,9217734861,kavya.reddy@college.edu,54,55,89
+S012,Ishita Mehta,Female,BSc Data Science,5,Hyderabad,2004-12-19,9369953851,ishita.mehta@college.edu,36,49,69
+S013,Harsh Khan,Male,BE-ECE,4,Mumbai,2004-07-18,9103484630,harsh.khan@college.edu,68,57,48
+S014,Tanvi Gupta,Male,BE-CSE,3,Mumbai,2005-01-09,9936043811,tanvi.gupta@college.edu,35,76,97
+S015,Aarav Iyer,Female,BE-ECE,2,Bengaluru,2003-05-09,9709194872,aarav.iyer@college.edu,45,45,97
+S016,Sanjay Mehta,Male,BE-CSE,6,Hyderabad,2005-01-30,9277303722,sanjay.mehta@college.edu,68,89,62
+S017,Riya Bose,Male,BE-ECE,4,Pune,2005-08-23,9500957212,riya.bose@college.edu,91,92,50
+S018,Priya Reddy,Male,BE-ECE,1,Chennai,2005-02-08,9347083812,priya.reddy@college.edu,63,35,44
+S019,Farhan Patel,Male,BCA,1,Delhi,2002-05-26,9652070932,farhan.patel@college.edu,65,70,97
+S020,Karan Bose,Male,BSc Data Science,2,Hyderabad,2006-07-12,9537077308,karan.bose@college.edu,59,47,47
+S021,Divya Verma,Female,BSc Data Science,4,Hyderabad,2006-11-05,9882839238,divya.verma@college.edu,41,47,42
+S022,Imran Khan,Male,BE-CSE,2,Mumbai,2005-01-03,9581695135,imran.khan@college.edu,52,89,58
+S023,Arjun Shetty,Male,BCA,4,Chennai,2002-07-20,9154318806,arjun.shetty@college.edu,36,46,65
+S024,Sneha Verma,Female,BSc Data Science,2,Hyderabad,2002-05-01,9276777762,sneha.verma@college.edu,83,35,84
+S025,Arjun Shetty,Female,BSc Data Science,6,Pune,2006-05-24,9696751693,arjun.shetty@college.edu,97,54,59
+S026,Meera Nair,Male,BCA,6,Delhi,2002-04-28,9153839920,meera.nair@college.edu,96,55,42
+S027,Nikhil Mehta,Male,BCA,5,Bengaluru,2005-10-14,9352548261,nikhil.mehta@college.edu,86,50,66
+S028,Aditya Hegde,Male,BCA,4,Pune,2005-04-10,9706907788,aditya.hegde@college.edu,75,68,61
+S029,Divya Khan,Male,BE-ECE,4,Mumbai,2005-10-07,9793101194,divya.khan@college.edu,73,93,75
+S030,Riya Mehta,Male,BSc Data Science,5,Chennai,2002-07-24,9178663096,riya.mehta@college.edu,62,68,51
+S031,Riya Joshi,Male,BE-CSE,3,Delhi,2002-11-20,9570497096,riya.joshi@college.edu,73,36,73
+S032,Riya Iyer,Male,BE-ECE,1,Bengaluru,2006-03-01,9694019365,riya.iyer@college.edu,54,69,71
+S033,Ishita Nair,Female,BE-CSE,6,Pune,2006-10-13,9383450553,ishita.nair@college.edu,97,67,41
+S034,Rohan Verma,Female,BCA,1,Delhi,2006-04-29,9240466536,rohan.verma@college.edu,68,55,91
+S035,Pooja Verma,Male,BCA,1,Pune,2002-11-02,9685823118,pooja.verma@college.edu,39,82,53
+S036,Fatima Singh,Male,BE-ECE,3,Bengaluru,2004-01-03,9325567963,fatima.singh@college.edu,66,48,80
+S037,Harsh Bose,Female,BE-CSE,2,Mumbai,2006-06-27,9970559510,harsh.bose@college.edu,57,87,38
+S038,Sneha Khan,Female,BE-CSE,3,Mumbai,2006-06-01,9852991721,sneha.khan@college.edu,48,83,39
+S039,Tanvi Menon,Male,BE-CSE,4,Delhi,2003-09-18,9981044229,tanvi.menon@college.edu,64,63,38
+S040,Divya Nair,Female,BE-ECE,3,Bengaluru,2006-05-03,9399708182,divya.nair@college.edu,79,86,77
+S041,Aarav Iyer,Female,BE-CSE,5,Delhi,2002-03-20,9216396351,aarav.iyer@college.edu,90,79,75
+S042,Fatima Hegde,Male,BSc Data Science,5,Mumbai,2003-06-06,9147659674,fatima.hegde@college.edu,90,35,60
+S043,Kavya Verma,Male,BE-ECE,5,Delhi,2005-09-20,9233815413,kavya.verma@college.edu,73,74,87
+S044,Rahul Rao,Female,BE-CSE,2,Hyderabad,2005-09-23,9507104143,rahul.rao@college.edu,57,73,86
+S045,Pooja Sharma,Female,BE-ECE,2,Hyderabad,2006-05-29,9722753913,pooja.sharma@college.edu,76,94,91
+S046,Suresh Nair,Female,BE-CSE,6,Bengaluru,2003-08-05,9653462378,suresh.nair@college.edu,77,46,65
+S047,Divya Gupta,Male,BE-CSE,2,Bengaluru,2002-04-05,9362897676,divya.gupta@college.edu,95,44,93
+S048,Fatima Naidu,Male,BSc Data Science,4,Hyderabad,2003-05-15,9258453521,fatima.naidu@college.edu,35,48,89
+S049,Priya Das,Female,BCA,5,Mumbai,2006-10-04,9230307805,priya.das@college.edu,93,52,94
+S050,Divya Pillai,Female,BSc Data Science,5,Pune,2004-10-30,9558209399,divya.pillai@college.edu,92,55,95
+S051,Suresh Kumar,Male,BE-ECE,5,Hyderabad,2005-07-07,9356888294,suresh.kumar@college.edu,70,91,44
+S052,Farhan Gupta,Male,BE-ECE,3,Delhi,2005-01-11,9186519602,farhan.gupta@college.edu,52,54,64
+S053,Imran Singh,Male,BCA,4,Hyderabad,2003-11-09,9682624278,imran.singh@college.edu,94,88,42
+S054,Karan Verma,Female,BCA,5,Hyderabad,2004-09-03,9106330865,karan.verma@college.edu,80,73,84
+S055,Tanvi Verma,Male,BSc Data Science,2,Delhi,2004-06-11,9621454127,tanvi.verma@college.edu,38,84,78
+S056,Divya Rao,Male,BSc Data Science,2,Chennai,2004-12-29,9128955006,divya.rao@college.edu,85,38,45
+S057,Manoj Verma,Male,BSc Data Science,2,Bengaluru,2003-06-17,9507059676,manoj.verma@college.edu,76,62,93
+S058,Rahul Khan,Female,BE-ECE,4,Delhi,2006-09-06,9187946147,rahul.khan@college.edu,95,37,41
+S059,Kavya Reddy,Male,BCA,1,Mumbai,2003-02-13,9121882877,kavya.reddy@college.edu,54,65,51
+S060,Lakshmi Iyer,Male,BSc Data Science,6,Delhi,2006-04-20,9496098177,lakshmi.iyer@college.edu,56,49,55
+S061,Meera Iyer,Male,BE-ECE,5,Pune,2004-02-08,9525904456,meera.iyer@college.edu,60,44,66
+S062,Ananya Gupta,Male,BCA,3,Chennai,2004-05-27,9810303128,ananya.gupta@college.edu,82,43,78
+S063,Aarav Verma,Female,BCA,4,Delhi,2005-07-25,9989817696,aarav.verma@college.edu,93,54,90
+S064,Sneha Pillai,Female,BSc Data Science,4,Hyderabad,2006-08-19,9884933416,sneha.pillai@college.edu,69,76,66
+S065,Sanjay Mehta,Female,BSc Data Science,2,Hyderabad,2005-03-13,9755338677,sanjay.mehta@college.edu,83,78,38
+S066,Lakshmi Khan,Male,BSc Data Science,2,Delhi,2006-06-22,9377403790,lakshmi.khan@college.edu,78,70,70
+S067,Pooja Sharma,Male,BCA,2,Pune,2004-04-12,9624606470,pooja.sharma@college.edu,65,95,97
+S068,Suresh Sharma,Male,BE-ECE,2,Hyderabad,2005-11-17,9361246928,suresh.sharma@college.edu,74,82,95
+S069,Pooja Pillai,Female,BSc Data Science,6,Chennai,2003-11-09,9477753674,pooja.pillai@college.edu,93,69,74
+S070,Arjun Reddy,Male,BE-CSE,3,Bengaluru,2006-03-02,9675379544,arjun.reddy@college.edu,58,59,62
+S071,Zoya Menon,Female,BE-ECE,1,Mumbai,2003-08-30,9344258191,zoya.menon@college.edu,81,57,73
+S072,Aarav Bose,Male,BE-ECE,1,Bengaluru,2005-02-07,9413679331,aarav.bose@college.edu,51,97,48
+S073,Tanvi Sharma,Female,BSc Data Science,4,Hyderabad,2003-11-29,9297958983,tanvi.sharma@college.edu,41,67,96
+S074,Ananya Mehta,Female,BSc Data Science,1,Chennai,2005-07-13,9837071174,ananya.mehta@college.edu,41,54,54
+S075,Neha Naidu,Female,BCA,2,Bengaluru,2005-02-16,9920814900,neha.naidu@college.edu,88,63,83
+S076,Suresh Shetty,Female,BSc Data Science,3,Chennai,2005-06-25,9164671796,suresh.shetty@college.edu,47,61,62
+S077,Arjun Mehta,Male,BE-CSE,2,Chennai,2002-06-03,9268075622,arjun.mehta@college.edu,35,87,92
+S078,Farhan Hegde,Female,BE-ECE,1,Mumbai,2003-08-14,9859088046,farhan.hegde@college.edu,71,93,44
+S079,Divya Reddy,Female,BE-CSE,4,Bengaluru,2005-01-20,9341387305,divya.reddy@college.edu,54,69,53
+S080,Rohan Patel,Male,BE-ECE,5,Pune,2006-08-16,9711181411,rohan.patel@college.edu,71,91,50
+S081,Suresh Gupta,Female,BE-ECE,5,Chennai,2004-10-08,9570040006,suresh.gupta@college.edu,45,40,90
+S082,Zoya Khan,Female,BCA,1,Mumbai,2005-10-12,9997603725,zoya.khan@college.edu,37,69,40
+S083,Harsh Das,Female,BSc Data Science,3,Mumbai,2005-04-13,9568027936,harsh.das@college.edu,97,46,95
+S084,Kavya Verma,Female,BE-ECE,6,Bengaluru,2006-10-23,9272684373,kavya.verma@college.edu,77,87,98
+S085,Meera Rao,Male,BSc Data Science,1,Delhi,2003-06-01,9447112584,meera.rao@college.edu,49,86,35
+S086,Divya Bose,Female,BSc Data Science,1,Mumbai,2004-11-27,9488457631,divya.bose@college.edu,98,91,41
+S087,Karan Kumar,Male,BE-ECE,4,Pune,2004-09-19,9230380269,karan.kumar@college.edu,38,65,55
+S088,Meera Bose,Male,BSc Data Science,1,Mumbai,2006-09-20,9221827951,meera.bose@college.edu,94,50,54
+S089,Lakshmi Gupta,Female,BSc Data Science,4,Hyderabad,2003-05-15,9590470737,lakshmi.gupta@college.edu,53,84,59
+S090,Riya Hegde,Male,BCA,3,Hyderabad,2003-11-28,9945805127,riya.hegde@college.edu,69,35,71
+S091,Zoya Gupta,Female,BE-CSE,4,Chennai,2004-09-18,9470574014,zoya.gupta@college.edu,77,83,93
+S092,Riya Khan,Male,BE-CSE,5,Hyderabad,2003-04-24,9932734539,riya.khan@college.edu,87,40,75
+S093,Zoya Menon,Female,BSc Data Science,6,Pune,2002-11-08,9631855083,zoya.menon@college.edu,39,51,77
+S094,Tanvi Iyer,Female,BCA,5,Hyderabad,2002-02-01,9875718152,tanvi.iyer@college.edu,53,87,54
+S095,Rohan Menon,Female,BE-ECE,5,Pune,2004-03-25,9797756796,rohan.menon@college.edu,45,77,83
+S096,Rahul Menon,Male,BCA,2,Pune,2005-11-02,9408570854,rahul.menon@college.edu,64,46,90
+S097,Ananya Iyer,Female,BE-CSE,6,Delhi,2002-03-01,9149382425,ananya.iyer@college.edu,76,42,72
+S098,Kavya Joshi,Female,BE-CSE,2,Chennai,2004-04-23,9707660630,kavya.joshi@college.edu,58,56,57
+S099,Rohan Hegde,Female,BE-CSE,4,Chennai,2002-10-21,9349310440,rohan.hegde@college.edu,94,67,93
+S100,Arjun Sharma,Female,BE-ECE,6,Chennai,2002-11-20,9179308612,arjun.sharma@college.edu,91,79,73

@@ -1,0 +1,79 @@
+OrderID,OrderDate,Region,Salesperson,Category,Product,Quantity,UnitPrice,UnitCost,DiscountPct
+ORD-10001,2024-01-01,North,Diya Patel,Furniture,Office Chair,1,7500,5200,5
+ORD-10002,2024-01-01,North,Aarav Sharma,Furniture,Standing Desk,9,18000,12500,0
+ORD-10003,2024-01-02,South,Ananya Iyer,Electronics,Headphones,10,3500,2200,0
+ORD-10004,2024-01-03,South,Rohan Mehta,Office Supplies,Stapler,9,220,130,0
+ORD-10005,2024-01-03,North,Diya Patel,Electronics,Smartphone,5,22000,17500,5
+ORD-10006,2024-01-03,West,Priya Reddy,Electronics,Headphones,9,3500,2200,15
+ORD-10007,2024-01-03,North,Diya Patel,Office Supplies,Printer Paper,5,450,320,0
+ORD-10008,2024-01-04,South,Ananya Iyer,Furniture,Standing Desk,5,18000,12500,5
+ORD-10009,2024-01-04,North,Aarav Sharma,Office Supplies,Stapler,7,220,130,0
+ORD-10010,2024-01-04,East,Sneha Das,Office Supplies,Printer Paper,2,450,320,15
+ORD-10011,2024-01-06,South,Ananya Iyer,Furniture,Standing Desk,4,18000,12500,15
+ORD-10012,2024-01-07,West,Karan Nair,Electronics,Laptop,1,55000,44000,10
+ORD-10013,2024-01-07,East,Sneha Das,Office Supplies,Stapler,9,220,130,15
+ORD-10014,2024-01-07,North,Diya Patel,Office Supplies,Pen Set,4,180,90,15
+ORD-10015,2024-01-07,West,Karan Nair,Office Supplies,Printer Paper,5,450,320,5
+ORD-10016,2024-01-07,South,Rohan Mehta,Furniture,Standing Desk,3,18000,12500,10
+ORD-10017,2024-01-08,North,Diya Patel,Office Supplies,Pen Set,5,180,90,0
+ORD-10018,2024-01-08,East,Sneha Das,Office Supplies,Whiteboard,6,2200,1500,10
+ORD-10019,2024-01-08,South,Rohan Mehta,Electronics,Smartphone,8,22000,17500,0
+ORD-10020,2024-01-08,West,Karan Nair,Electronics,Laptop,5,55000,44000,5
+ORD-10021,2024-01-08,North,Diya Patel,Furniture,Office Chair,10,7500,5200,10
+ORD-10022,2024-01-09,North,Diya Patel,Electronics,Headphones,4,3500,2200,10
+ORD-10023,2024-01-09,West,Priya Reddy,Office Supplies,Printer Paper,1,450,320,0
+ORD-10024,2024-01-09,South,Rohan Mehta,Electronics,Smartphone,8,22000,17500,0
+ORD-10025,2024-01-10,East,Sneha Das,Electronics,Monitor,3,12000,9000,0
+ORD-10026,2024-01-10,South,Rohan Mehta,Office Supplies,Whiteboard,10,2200,1500,0
+ORD-10027,2024-01-11,South,Ananya Iyer,Electronics,Monitor,9,12000,9000,5
+ORD-10028,2024-01-11,East,Vikram Singh,Electronics,Laptop,6,55000,44000,0
+ORD-10029,2024-01-12,West,Priya Reddy,Office Supplies,Notebook Pack,6,250,140,0
+ORD-10030,2024-01-12,East,Vikram Singh,Electronics,Smartphone,10,22000,17500,0
+ORD-10031,2024-01-13,South,Rohan Mehta,Office Supplies,Stapler,8,220,130,15
+ORD-10032,2024-01-14,South,Rohan Mehta,Furniture,Standing Desk,8,18000,12500,0
+ORD-10033,2024-01-15,South,Rohan Mehta,Office Supplies,Printer Paper,1,450,320,15
+ORD-10034,2024-01-15,South,Ananya Iyer,Office Supplies,Whiteboard,2,2200,1500,0
+ORD-10035,2024-01-15,East,Sneha Das,Office Supplies,Stapler,2,220,130,0
+ORD-10036,2024-01-15,North,Aarav Sharma,Furniture,Standing Desk,10,18000,12500,0
+ORD-10037,2024-01-16,West,Priya Reddy,Office Supplies,Notebook Pack,2,250,140,5
+ORD-10038,2024-01-16,East,Vikram Singh,Electronics,Smartphone,4,22000,17500,5
+ORD-10039,2024-01-17,North,Aarav Sharma,Office Supplies,Printer Paper,7,450,320,0
+ORD-10040,2024-01-17,North,Aarav Sharma,Office Supplies,Notebook Pack,3,250,140,10
+ORD-10041,2024-01-18,South,Ananya Iyer,Office Supplies,Notebook Pack,4,250,140,5
+ORD-10042,2024-01-18,East,Sneha Das,Furniture,Bookshelf,1,6500,4300,10
+ORD-10043,2024-01-19,South,Rohan Mehta,Furniture,Bookshelf,7,6500,4300,5
+ORD-10044,2024-01-19,West,Karan Nair,Furniture,Bookshelf,9,6500,4300,10
+ORD-10045,2024-01-19,South,Ananya Iyer,Office Supplies,Pen Set,9,180,90,0
+ORD-10046,2024-01-19,East,Sneha Das,Electronics,Laptop,3,55000,44000,0
+ORD-10047,2024-01-19,South,Rohan Mehta,Furniture,Office Chair,10,7500,5200,15
+ORD-10048,2024-01-20,East,Vikram Singh,Electronics,Headphones,1,3500,2200,0
+ORD-10049,2024-01-20,West,Priya Reddy,Electronics,Headphones,2,3500,2200,0
+ORD-10050,2024-01-20,West,Karan Nair,Office Supplies,Pen Set,7,180,90,0
+ORD-10051,2024-01-20,North,Aarav Sharma,Furniture,Bookshelf,9,6500,4300,0
+ORD-10052,2024-01-20,North,Aarav Sharma,Electronics,Headphones,7,3500,2200,0
+ORD-10053,2024-01-21,South,Ananya Iyer,Office Supplies,Pen Set,6,180,90,5
+ORD-10054,2024-01-21,North,Aarav Sharma,Office Supplies,Notebook Pack,4,250,140,10
+ORD-10055,2024-01-22,South,Ananya Iyer,Furniture,Standing Desk,4,18000,12500,10
+ORD-10056,2024-01-22,East,Sneha Das,Electronics,Laptop,7,55000,44000,0
+ORD-10057,2024-01-23,East,Vikram Singh,Electronics,Smartphone,2,22000,17500,0
+ORD-10058,2024-01-23,East,Sneha Das,Furniture,Bookshelf,9,6500,4300,5
+ORD-10059,2024-01-23,North,Diya Patel,Office Supplies,Stapler,3,220,130,0
+ORD-10060,2024-01-23,West,Karan Nair,Furniture,Bookshelf,3,6500,4300,0
+ORD-10061,2024-01-23,West,Karan Nair,Electronics,Laptop,1,55000,44000,5
+ORD-10062,2024-01-24,North,Diya Patel,Electronics,Monitor,7,12000,9000,0
+ORD-10063,2024-01-24,North,Aarav Sharma,Office Supplies,Stapler,2,220,130,15
+ORD-10064,2024-01-24,West,Priya Reddy,Furniture,Bookshelf,2,6500,4300,0
+ORD-10065,2024-01-25,East,Sneha Das,Office Supplies,Stapler,5,220,130,0
+ORD-10066,2024-01-26,North,Diya Patel,Electronics,Monitor,7,12000,9000,10
+ORD-10067,2024-01-26,South,Ananya Iyer,Office Supplies,Whiteboard,8,2200,1500,0
+ORD-10068,2024-01-26,East,Vikram Singh,Office Supplies,Notebook Pack,6,250,140,0
+ORD-10069,2024-01-26,South,Ananya Iyer,Office Supplies,Pen Set,3,180,90,0
+ORD-10070,2024-01-27,South,Ananya Iyer,Office Supplies,Stapler,10,220,130,5
+ORD-10071,2024-01-27,South,Ananya Iyer,Office Supplies,Printer Paper,5,450,320,5
+ORD-10072,2024-01-27,South,Rohan Mehta,Office Supplies,Stapler,7,220,130,15
+ORD-10073,2024-01-28,South,Rohan Mehta,Furniture,Bookshelf,1,6500,4300,0
+ORD-10074,2024-01-28,East,Sneha Das,Office Supplies,Pen Set,5,180,90,0
+ORD-10075,2024-01-29,West,Priya Reddy,Office Supplies,Printer Paper,8,450,320,0
+ORD-10076,2024-01-29,West,Priya Reddy,Furniture,Bookshelf,1,6500,4300,15
+ORD-10077,2024-01-29,South,Rohan Mehta,Office Supplies,Pen Set,3,180,90,0
+ORD-10078,2024-01-30,North,Diya Patel,Electronics,Laptop,10,55000,44000,15

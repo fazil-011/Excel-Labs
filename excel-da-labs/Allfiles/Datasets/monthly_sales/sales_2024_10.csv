@@ -1,0 +1,106 @@
+OrderID,OrderDate,Region,Salesperson,Category,Product,Quantity,UnitPrice,UnitCost,DiscountPct
+ORD-10877,2024-10-01,East,Vikram Singh,Office Supplies,Whiteboard,5,2200,1500,0
+ORD-10878,2024-10-01,West,Karan Nair,Office Supplies,Printer Paper,8,450,320,10
+ORD-10879,2024-10-02,West,Priya Reddy,Office Supplies,Whiteboard,4,2200,1500,0
+ORD-10880,2024-10-02,South,Rohan Mehta,Furniture,Bookshelf,8,6500,4300,0
+ORD-10881,2024-10-02,South,Ananya Iyer,Furniture,Office Chair,5,7500,5200,0
+ORD-10882,2024-10-02,South,Rohan Mehta,Electronics,Smartphone,9,22000,17500,0
+ORD-10883,2024-10-02,West,Karan Nair,Office Supplies,Pen Set,9,180,90,0
+ORD-10884,2024-10-02,South,Rohan Mehta,Furniture,Office Chair,4,7500,5200,0
+ORD-10885,2024-10-02,East,Vikram Singh,Electronics,Smartphone,10,22000,17500,0
+ORD-10886,2024-10-02,North,Aarav Sharma,Electronics,Smartphone,3,22000,17500,0
+ORD-10887,2024-10-03,South,Ananya Iyer,Office Supplies,Notebook Pack,4,250,140,0
+ORD-10888,2024-10-03,East,Sneha Das,Office Supplies,Pen Set,8,180,90,0
+ORD-10889,2024-10-03,North,Diya Patel,Office Supplies,Whiteboard,4,2200,1500,0
+ORD-10890,2024-10-03,North,Diya Patel,Furniture,Bookshelf,5,6500,4300,5
+ORD-10891,2024-10-03,East,Sneha Das,Office Supplies,Pen Set,9,180,90,0
+ORD-10892,2024-10-03,South,Ananya Iyer,Furniture,Standing Desk,2,18000,12500,15
+ORD-10893,2024-10-04,North,Diya Patel,Office Supplies,Whiteboard,1,2200,1500,0
+ORD-10894,2024-10-04,East,Vikram Singh,Office Supplies,Printer Paper,6,450,320,10
+ORD-10895,2024-10-05,East,Vikram Singh,Office Supplies,Stapler,10,220,130,15
+ORD-10896,2024-10-05,West,Karan Nair,Office Supplies,Printer Paper,1,450,320,0
+ORD-10897,2024-10-05,West,Karan Nair,Electronics,Headphones,9,3500,2200,5
+ORD-10898,2024-10-05,East,Sneha Das,Furniture,Bookshelf,4,6500,4300,0
+ORD-10899,2024-10-06,East,Sneha Das,Furniture,Bookshelf,7,6500,4300,0
+ORD-10900,2024-10-07,North,Diya Patel,Electronics,Headphones,2,3500,2200,0
+ORD-10901,2024-10-07,North,Aarav Sharma,Electronics,Headphones,8,3500,2200,0
+ORD-10902,2024-10-07,North,Aarav Sharma,Electronics,Monitor,6,12000,9000,0
+ORD-10903,2024-10-07,North,Aarav Sharma,Office Supplies,Notebook Pack,7,250,140,0
+ORD-10904,2024-10-08,West,Priya Reddy,Office Supplies,Notebook Pack,9,250,140,0
+ORD-10905,2024-10-08,South,Ananya Iyer,Office Supplies,Printer Paper,7,450,320,5
+ORD-10906,2024-10-08,North,Aarav Sharma,Office Supplies,Stapler,8,220,130,15
+ORD-10907,2024-10-08,North,Aarav Sharma,Office Supplies,Whiteboard,9,2200,1500,0
+ORD-10908,2024-10-08,South,Rohan Mehta,Electronics,Headphones,7,3500,2200,10
+ORD-10909,2024-10-08,East,Sneha Das,Furniture,Standing Desk,6,18000,12500,0
+ORD-10910,2024-10-09,South,Rohan Mehta,Electronics,Monitor,3,12000,9000,0
+ORD-10911,2024-10-10,South,Ananya Iyer,Furniture,Bookshelf,1,6500,4300,5
+ORD-10912,2024-10-11,South,Rohan Mehta,Office Supplies,Stapler,3,220,130,5
+ORD-10913,2024-10-11,West,Priya Reddy,Furniture,Bookshelf,9,6500,4300,0
+ORD-10914,2024-10-11,East,Sneha Das,Furniture,Office Chair,9,7500,5200,0
+ORD-10915,2024-10-12,East,Vikram Singh,Electronics,Headphones,2,3500,2200,10
+ORD-10916,2024-10-12,South,Rohan Mehta,Electronics,Monitor,9,12000,9000,5
+ORD-10917,2024-10-12,North,Aarav Sharma,Furniture,Bookshelf,7,6500,4300,10
+ORD-10918,2024-10-13,East,Sneha Das,Furniture,Standing Desk,9,18000,12500,0
+ORD-10919,2024-10-13,South,Ananya Iyer,Electronics,Monitor,10,12000,9000,15
+ORD-10920,2024-10-14,East,Vikram Singh,Office Supplies,Printer Paper,5,450,320,0
+ORD-10921,2024-10-14,East,Sneha Das,Office Supplies,Printer Paper,10,450,320,10
+ORD-10922,2024-10-14,West,Priya Reddy,Office Supplies,Pen Set,1,180,90,0
+ORD-10923,2024-10-14,North,Diya Patel,Office Supplies,Printer Paper,4,450,320,0
+ORD-10924,2024-10-15,South,Rohan Mehta,Furniture,Office Chair,4,7500,5200,10
+ORD-10925,2024-10-16,South,Rohan Mehta,Office Supplies,Printer Paper,8,450,320,0
+ORD-10926,2024-10-16,South,Rohan Mehta,Office Supplies,Pen Set,10,180,90,0
+ORD-10927,2024-10-16,South,Rohan Mehta,Furniture,Office Chair,8,7500,5200,0
+ORD-10928,2024-10-17,East,Sneha Das,Office Supplies,Whiteboard,10,2200,1500,0
+ORD-10929,2024-10-18,North,Aarav Sharma,Electronics,Monitor,6,12000,9000,10
+ORD-10930,2024-10-18,West,Priya Reddy,Office Supplies,Pen Set,8,180,90,0
+ORD-10931,2024-10-18,West,Karan Nair,Electronics,Smartphone,4,22000,17500,15
+ORD-10932,2024-10-18,East,Vikram Singh,Furniture,Standing Desk,5,18000,12500,5
+ORD-10933,2024-10-19,South,Ananya Iyer,Electronics,Smartphone,9,22000,17500,0
+ORD-10934,2024-10-19,West,Priya Reddy,Office Supplies,Stapler,10,220,130,5
+ORD-10935,2024-10-19,South,Rohan Mehta,Electronics,Laptop,4,55000,44000,0
+ORD-10936,2024-10-19,North,Aarav Sharma,Electronics,Smartphone,7,22000,17500,15
+ORD-10937,2024-10-19,South,Rohan Mehta,Office Supplies,Printer Paper,10,450,320,5
+ORD-10938,2024-10-19,West,Priya Reddy,Office Supplies,Whiteboard,10,2200,1500,0
+ORD-10939,2024-10-20,South,Ananya Iyer,Electronics,Laptop,9,55000,44000,0
+ORD-10940,2024-10-20,East,Sneha Das,Furniture,Bookshelf,2,6500,4300,5
+ORD-10941,2024-10-21,West,Priya Reddy,Office Supplies,Whiteboard,4,2200,1500,0
+ORD-10942,2024-10-21,South,Rohan Mehta,Office Supplies,Pen Set,7,180,90,5
+ORD-10943,2024-10-21,South,Ananya Iyer,Electronics,Laptop,7,55000,44000,0
+ORD-10944,2024-10-21,East,Sneha Das,Electronics,Laptop,3,55000,44000,5
+ORD-10945,2024-10-22,North,Diya Patel,Furniture,Office Chair,2,7500,5200,10
+ORD-10946,2024-10-22,North,Aarav Sharma,Office Supplies,Whiteboard,9,2200,1500,0
+ORD-10947,2024-10-22,South,Ananya Iyer,Office Supplies,Stapler,10,220,130,15
+ORD-10948,2024-10-22,South,Rohan Mehta,Office Supplies,Pen Set,9,180,90,0
+ORD-10949,2024-10-22,South,Rohan Mehta,Electronics,Laptop,8,55000,44000,0
+ORD-10950,2024-10-23,East,Vikram Singh,Furniture,Office Chair,9,7500,5200,10
+ORD-10951,2024-10-23,East,Vikram Singh,Office Supplies,Whiteboard,6,2200,1500,0
+ORD-10952,2024-10-24,East,Sneha Das,Office Supplies,Notebook Pack,1,250,140,15
+ORD-10953,2024-10-24,North,Diya Patel,Office Supplies,Whiteboard,2,2200,1500,10
+ORD-10954,2024-10-24,South,Ananya Iyer,Electronics,Smartphone,8,22000,17500,0
+ORD-10955,2024-10-24,North,Aarav Sharma,Office Supplies,Stapler,10,220,130,5
+ORD-10956,2024-10-24,South,Rohan Mehta,Electronics,Monitor,1,12000,9000,0
+ORD-10957,2024-10-24,South,Rohan Mehta,Furniture,Office Chair,1,7500,5200,0
+ORD-10958,2024-10-25,West,Karan Nair,Electronics,Smartphone,5,22000,17500,15
+ORD-10959,2024-10-25,South,Ananya Iyer,Office Supplies,Stapler,8,220,130,0
+ORD-10960,2024-10-25,West,Priya Reddy,Office Supplies,Pen Set,7,180,90,10
+ORD-10961,2024-10-25,West,Priya Reddy,Office Supplies,Printer Paper,10,450,320,15
+ORD-10962,2024-10-25,South,Rohan Mehta,Furniture,Bookshelf,3,6500,4300,10
+ORD-10963,2024-10-26,West,Karan Nair,Office Supplies,Stapler,2,220,130,0
+ORD-10964,2024-10-26,West,Karan Nair,Electronics,Laptop,8,55000,44000,10
+ORD-10965,2024-10-26,North,Diya Patel,Office Supplies,Whiteboard,1,2200,1500,15
+ORD-10966,2024-10-26,West,Priya Reddy,Electronics,Smartphone,8,22000,17500,0
+ORD-10967,2024-10-27,West,Karan Nair,Furniture,Bookshelf,4,6500,4300,10
+ORD-10968,2024-10-27,South,Ananya Iyer,Electronics,Smartphone,4,22000,17500,0
+ORD-10969,2024-10-28,North,Aarav Sharma,Office Supplies,Whiteboard,9,2200,1500,0
+ORD-10970,2024-10-28,South,Ananya Iyer,Furniture,Bookshelf,5,6500,4300,0
+ORD-10971,2024-10-29,East,Sneha Das,Office Supplies,Whiteboard,1,2200,1500,15
+ORD-10972,2024-10-29,South,Rohan Mehta,Office Supplies,Pen Set,2,180,90,0
+ORD-10973,2024-10-29,South,Ananya Iyer,Furniture,Bookshelf,3,6500,4300,10
+ORD-10974,2024-10-30,South,Ananya Iyer,Office Supplies,Pen Set,9,180,90,0
+ORD-10975,2024-10-30,North,Aarav Sharma,Electronics,Monitor,4,12000,9000,5
+ORD-10976,2024-10-30,West,Priya Reddy,Electronics,Monitor,10,12000,9000,0
+ORD-10977,2024-10-30,North,Diya Patel,Electronics,Smartphone,6,22000,17500,0
+ORD-10978,2024-10-31,West,Priya Reddy,Office Supplies,Whiteboard,10,2200,1500,0
+ORD-10979,2024-10-31,South,Rohan Mehta,Office Supplies,Stapler,5,220,130,0
+ORD-10980,2024-10-31,North,Diya Patel,Office Supplies,Whiteboard,5,2200,1500,0
+ORD-10981,2024-10-31,West,Priya Reddy,Electronics,Smartphone,10,22000,17500,0

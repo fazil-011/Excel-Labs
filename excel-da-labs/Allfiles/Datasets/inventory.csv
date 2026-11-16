@@ -1,0 +1,37 @@
+ProductID,ProductName,Category,Supplier,StockQty,ReorderLevel,UnitPrice
+P101,Laptop,Electronics,OfficeMart,23,30,63472
+P102,Laptop Pro,Electronics,FurniWorld,119,50,55991
+P103,Laptop Lite,Electronics,BrightSupplies,49,30,48756
+P104,Smartphone,Electronics,FurniWorld,100,10,24020
+P105,Smartphone Pro,Electronics,FurniWorld,42,20,28091
+P106,Smartphone Lite,Electronics,BrightSupplies,110,50,22261
+P107,Headphones,Electronics,FurniWorld,81,10,3862
+P108,Headphones Pro,Electronics,BrightSupplies,51,30,3454
+P109,Headphones Lite,Electronics,TechSource Pvt Ltd,115,20,4356
+P110,Monitor,Electronics,FurniWorld,150,50,11360
+P111,Monitor Pro,Electronics,FurniWorld,101,10,10287
+P112,Monitor Lite,Electronics,FurniWorld,109,20,11746
+P113,Office Chair,Furniture,TechSource Pvt Ltd,55,30,7394
+P114,Office Chair Pro,Furniture,FurniWorld,31,10,7194
+P115,Office Chair Lite,Furniture,TechSource Pvt Ltd,183,30,6801
+P116,Standing Desk,Furniture,FurniWorld,59,10,17870
+P117,Standing Desk Pro,Furniture,OfficeMart,134,20,15326
+P118,Standing Desk Lite,Furniture,FurniWorld,183,10,19565
+P119,Bookshelf,Furniture,BrightSupplies,174,50,6232
+P120,Bookshelf Pro,Furniture,FurniWorld,50,20,5361
+P121,Bookshelf Lite,Furniture,BrightSupplies,127,10,8418
+P122,Notebook Pack,Office Supplies,BrightSupplies,30,10,256
+P123,Notebook Pack Pro,Office Supplies,FurniWorld,151,50,229
+P124,Notebook Pack Lite,Office Supplies,TechSource Pvt Ltd,72,10,280
+P125,Printer Paper,Office Supplies,TechSource Pvt Ltd,118,30,389
+P126,Printer Paper Pro,Office Supplies,BrightSupplies,9,10,435
+P127,Printer Paper Lite,Office Supplies,TechSource Pvt Ltd,17,50,381
+P128,Pen Set,Office Supplies,BrightSupplies,185,30,168
+P129,Pen Set Pro,Office Supplies,FurniWorld,102,10,194
+P130,Pen Set Lite,Office Supplies,FurniWorld,126,10,179
+P131,Stapler,Office Supplies,BrightSupplies,126,10,268
+P132,Stapler Pro,Office Supplies,TechSource Pvt Ltd,7,20,181
+P133,Stapler Lite,Office Supplies,TechSource Pvt Ltd,35,10,285
+P134,Whiteboard,Office Supplies,BrightSupplies,57,20,1856
+P135,Whiteboard Pro,Office Supplies,FurniWorld,137,10,2787
+P136,Whiteboard Lite,Office Supplies,TechSource Pvt Ltd,66,10,1881
